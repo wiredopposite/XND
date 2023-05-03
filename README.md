@@ -1,3 +1,4 @@
+![XND_PCB](https://github.com/wiredopposite/XND/blob/main/Pictures/xnd.jpeg)?raw=true)
 # XND
 DVD elimination plug for the Original Xbox.
 # BOM
