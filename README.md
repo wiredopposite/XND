@@ -1,2 +1,2 @@
 # XND
-DVD elimination board for the Original Xbox.
+DVD elimination plug for the Original Xbox.
